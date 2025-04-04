@@ -1,2 +1,2 @@
 # Food-Waste-Redistribution-Platform
-A repository that will hold the code for the FWRP
+Avery is a Food Waste Redistribution Platform where companies, restaurants and individuals can come and donate surplus food items. This can range from perishables to canned goods. The aim of this platform is to connect business with charity organizations and food kitchens. The aim is to reduce food waste whilst securing a good meal for thousands of people across South Africa
